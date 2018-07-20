@@ -2,6 +2,21 @@
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
+# React Native App working with public API
+[![react-native version](https://img.shields.io/badge/react--native-0.55.2-0ba7d3.svg?style=flat-square)](http://facebook.github.io/react-native/releases/0.55.2)
+
+__Usage__
+- Firts tap on image is calling push-notification
+- Second yap is detele __ALL__ called push-notification
+
+<div>
+ <img width="280px" src="https://pp.userapi.com/c846221/v846221537/a1713/AfxR3qBv41k.jpg" />
+<img width="280px" src="https://pp.userapi.com/c846221/v846221537/a1727/D7P7KSrdgmY.jpg" />
+
+</div>
+
+---
+
 ## Table of Contents
 
 * [Updating to New Releases](#updating-to-new-releases)
